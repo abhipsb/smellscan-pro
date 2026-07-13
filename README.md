@@ -4,6 +4,8 @@ SmellScan-Pro is a 🔧 tool designed to scan the code and detect the design sme
 
 Currently we release with Angular/TypeScript support, other languages will be added in subsequent releases.
 
+# Install [SmellScan Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smell-scan-pro)
+
 ## 🌟 Features
 
 SmellScan-Pro is capable of detecting the following design smells in code:
@@ -55,8 +57,8 @@ To report issues, please visit:
 SmellScan-Pro supports VS Code version 1.88.0 or later. 🎯
 
 ## 🔄 Change log
-
-### Version 1.0.0
+### Install [SmellScan Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smell-scan-pro)
+### Version 1.0.0 
 - Initial release of SmellScan-Pro with Angular/TypeScript support.
 - Added support for detecting 16 design smells across 4 categories:
   - **Abstraction**: Imperative Abstraction, Unnecessary Abstraction, Unutilized Abstraction
