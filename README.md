@@ -58,6 +58,12 @@ SmellScan-Pro supports VS Code version 1.88.0 or later. 🎯
 
 ## 🔄 Change log
 ### Install [SmellScan Pro](https://marketplace.visualstudio.com/items?itemName=abhipsb.smell-scan-pro)
+
+### Version 1.0.1
+ - Scan Optimized
+ - Fixed [Issue #1](https://github.com/abhipsb/smellscan-pro/issues/1)
+ - Fixed [Issue #2](https://github.com/abhipsb/smellscan-pro/issues/2)
+
 ### Version 1.0.0 
 - Initial release of SmellScan-Pro with Angular/TypeScript support.
 - Added support for detecting 16 design smells across 4 categories:
